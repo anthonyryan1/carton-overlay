@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<herd>perl</herd>
+	<upstream>
+		<remote-id type="cpan">Carton</remote-id>
+		<remote-id type="cpan-module">Carton::Builder</remote-id>
+		<remote-id type="cpan-module">Carton::CLI</remote-id>
+		<remote-id type="cpan-module">Carton::CPANfile</remote-id>
+		<remote-id type="cpan-module">Carton::Dependency</remote-id>
+		<remote-id type="cpan-module">Carton::Dist</remote-id>
+		<remote-id type="cpan-module">Carton::Dist::Core</remote-id>
+		<remote-id type="cpan-module">Carton::Environment</remote-id>
+		<remote-id type="cpan-module">Carton::Error</remote-id>
+		<remote-id type="cpan-module">Carton::Index</remote-id>
+		<remote-id type="cpan-module">Carton::Mirror</remote-id>
+		<remote-id type="cpan-module">Carton::Package</remote-id>
+		<remote-id type="cpan-module">Carton::Packer</remote-id>
+		<remote-id type="cpan-module">Carton::Snapshot</remote-id>
+		<remote-id type="cpan-module">Carton::Snapshot::Emitter</remote-id>
+		<remote-id type="cpan-module">Carton::Snapshot::Parser</remote-id>
+		<remote-id type="cpan-module">Carton::Tree</remote-id>
+	</upstream>
+</pkgmetadata>
