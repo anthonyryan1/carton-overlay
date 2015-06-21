@@ -1,4 +1,4 @@
-# Copyright 1999-2013 Gentoo Foundation
+# Copyright 1999-2015 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 # $Header: $
 
@@ -17,7 +17,7 @@ IUSE=""
 DEPEND="virtual/perl-Module-Metadata
 	dev-perl/App-FatPacker
 	virtual/perl-CPAN-Meta
-	virtual/perl-Module-Build
+	dev-perl/Module-Build
 	dev-perl/Path-Tiny
 	virtual/perl-Getopt-Long
 	dev-perl/Try-Tiny
