@@ -1,11 +1,12 @@
-# Copyright 1999-2015 Gentoo Foundation
+# Copyright 1999-2016 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: $
+# $Id$
 
 EAPI=5
 
 MODULE_AUTHOR=MIYAGAWA
-MODULE_VERSION="v1.0.12"
+MODULE_VERSION="v${PV}"
+
 inherit perl-module
 
 DESCRIPTION="Perl Carton - Perl module dependency manager (aka Bundler for Perl)"
