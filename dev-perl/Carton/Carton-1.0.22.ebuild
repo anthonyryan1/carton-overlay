@@ -22,6 +22,7 @@ DEPEND="virtual/perl-Module-Metadata
 	dev-perl/Path-Tiny
 	virtual/perl-Getopt-Long
 	dev-perl/Try-Tiny
+	dev-perl/Class-Tiny
 	virtual/perl-parent
 	dev-perl/File-pushd
 	virtual/perl-version
